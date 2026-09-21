@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+
+.tableA th{
+    border: 1px solid black;
+}
+
+
+.tableC th, 
+.tableB th{
+    background-color: #207cca;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+    color: white;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
