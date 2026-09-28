@@ -18,6 +18,10 @@ table {
     border: 1px solid black;
 }
 
+.lulus{
+    font-weight: bold;
+}
+
 .tableA{
     border-collapse: separate;
 }
