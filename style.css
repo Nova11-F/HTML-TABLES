@@ -1,21 +1,33 @@
+body{
+    background-color: #f2f2f2;
+}
+
+h1,
+h2{
+    margin: 20px 50px;
+    padding: 10px 20px;
+}
+
 h1{
-    text-align: center;
+        border-bottom: 2px solid ;
 }
 
 div{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 20px;
-}
-
-h2{
-    text-align: center;
+    margin: 20px 50px;
 }
 
 table {
     border-collapse: collapse;
     border: 1px solid black;
+    background-color: white;
+}
+
+span{
+    color: red;
+    font-weight: bold;
 }
 
 .lulus{
